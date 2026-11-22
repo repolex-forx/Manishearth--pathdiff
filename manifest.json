@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "Manishearth",
+  "repo": "pathdiff",
+  "versions": [
+    {
+      "commit": "5180ff5b23d9d7eef0a14de13a3d814eb5d8d65c",
+      "parsed_at": "2026-11-22T23:37:32.993521+00:00",
+      "tag": "v0.2.3",
+      "filetree": "filetree/5180ff5b23d9d7eef0a14de13a3d814eb5d8d65c.nq.gz",
+      "blobs": [
+        "blob/a44161eae7521423332466f61f94c5ea45ff1522.nq.gz",
+        "blob/46b7e0b6ddea8e3d1a1eae8d33c31aeaf41bc431.nq.gz",
+        "blob/31aa79387f27e730e33d871925e152e35e428031.nq.gz",
+        "blob/34233b31dcf8d80a859af4bf5741ba7e77905ee3.nq.gz",
+        "blob/6aa106405a4b4a00d779beab77c90c9473a6d203.nq.gz",
+        "blob/988d9aa26d719ddd40bb2a82270069d906a82354.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
